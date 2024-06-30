@@ -1,4 +1,7 @@
 
+-- Create database Restaurant;
+
+
 Use Restaurant;
 CREATE TABLE [Staff] (
   [StaffID] INT NOT NULL,
